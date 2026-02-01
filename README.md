@@ -14,4 +14,4 @@ This repository is released under **CC0 1.0**.
 
 ## Citation
 If you use this dataset, please cite:
-Author, *Smartphone Battery Consumption Dataset*, 2026. GitHub: https://github.com/<yourname>/<repo>
+Author, *Smartphone Battery Consumption Dataset*, 2026. GitHub: https://github.com/zhangxiwen952-star/smartphone-battery-dataset
